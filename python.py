@@ -1,2 +1,2 @@
-#pythin code to display output
-print (" yo guys")
+#python code to display output
+print ("yo guys")
